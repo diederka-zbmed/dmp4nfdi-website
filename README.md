@@ -1,25 +1,24 @@
 # Welcome! 
+Welcome to DMP4NFDI – your centralised service for managing Data and Software Management Plans across the NFDI.
 
-This repository provides a [Hugo](https://gohugo.io/) template for a Base4NFDI basic service website. 
-By default it includes a blog/newsfeed, publications, people in the project and a wiki, but can be customized in any way to your needs.
-In this template, 'TODO' is used as a placeholder in every place you need to fill in your own service information, so you can just search for it, change/fill out every instance and the site should be ready to use.
+<img src="https://base4nfdi.de/images/nicepage-images/DMP4NFDI.png" alt="DMP4NFDI-logo" style="width: 25%;">
 
-TODO: insert your service logo
+<!-- ![todo](https://github.com/user-attachments/assets/f308fd01-e74c-45ef-a41d-19704095b7fe) Bild verkleinert in assets hochladen To Do --> 
 
-![todo](https://github.com/user-attachments/assets/f308fd01-e74c-45ef-a41d-19704095b7fe)
 
-# TODO4NFDI
+# DMP44NFDI
 
-TODO: short intro text about project
+DMP4NFDI is a centralised Basic Service for managing data management plans (DMPs) and software management plans (SMPs) across the NFDI. It will host the open-source DMP tool RDMO, coordinate template creation, standardise content, and offer guidance and support to consortia staff responsible for DMPs. The service aims to enhance communication among stakeholders, support data collection and review processes, and foster interoperability by engaging consortia early on to refine requirements and develop standardised DMP templates. Ultimately, DMP4NFDI seeks to maximise the benefits of widespread DMP adoption by promoting interoperability and integration across the NFDI's research data ecosystem. 
 
 # Website
-Check out our website (TODO: ADD LINK AFTER PUBLISHING). (_The website is hosted in this repository._)
+<!-- Check out our website (TODO: ADD LINK AFTER PUBLISHING). (_The website is hosted in this repository._) --> 
 
-You can also find us [on the Base4NFDI website](https://base4nfdi.de/projects/). (TODO: specify) 
+You can also find our base service [on the Base4NFDI website](https://base4nfdi.de/projects/dmp4nfdi). 
 
 # License
-This repository and the website content (TODO: ADD LINK AFTER PUBLISHING) are licensed under Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
+This repository is licenced under the Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
 
+<!-- 
 # Using this template
 
   1. [Click here to use this template in your own repository](https://github.com/new?template_name=website-template-hugo&template_owner=base4nfdi) or ask the Base4NFDI staff to create one for you in the Base4NFDI organisation
@@ -43,3 +42,4 @@ GitHub has [extensive documentation on this](https://docs.github.com/en/pages/co
 
 ## Acknowledgements
 Significant primary work was done by M. Lange.
+--> 

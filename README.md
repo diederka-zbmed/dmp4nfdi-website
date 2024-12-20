@@ -6,7 +6,6 @@ By default it includes a blog/newsfeed, publications, people in the project and 
 In this template, 'TODO' is used as a placeholder in every place you need to fill in your own service information, so you can just search for it, change/fill out every instance and the site should be ready to use.
 --> 
 
-test
 ![DMP4NFDI-Logo](https://github.com/user-attachments/assets/3736aebf-2406-493c-beff-769c7b3d2d4e)
 
 # DMP4NFDI

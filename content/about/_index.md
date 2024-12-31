@@ -3,7 +3,7 @@ title: About
 date: 2024-07-24
 type: landing
 
-# TODO change content
+# TODO change about
 
 sections:
   - block: markdown

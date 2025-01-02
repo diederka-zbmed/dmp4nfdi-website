@@ -23,7 +23,7 @@ sections:
         Scientific data should in any case follow the [FAIR principles](https://www.go-fair.org/fair-principles/), which promote findability, accessibility, interoperability and re-usability of research data. 
 
         And here is a video of milk under a microscope, © [Miguel Angel Omaña Rojas CC-BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Milk_under_the_microscope.webm)
-        {{< video src="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Milk_under_the_microscope.webm/Milk_under_the_microscope.webm.480p.vp9.webm" controls="yes" >}}
+        {{< video src="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Milk_under_the_microscope.webm/Milk_under_the_microscope.webm.480p.vp9.webm" controls="yes" >}} 
 
     design:
       columns: '1'

@@ -20,10 +20,13 @@ sections:
     content:
       title: And what are the details?
       text: |
-        We work closely with consortia to develop DMP/SMP templates that streamline data workflows across projects.  
-Train consortia staff to support their communities in using the DMP or SMP-Tool RDMO effectively.  
-Facilitate integrations with other tools and services in the research data ecosystem of the NFDI. 
-By fostering collaboration, standardization, and machine-readability, DMP4NFDI enhances communication between stakeholders and ensures that DMPs become powerful tools for research planning and data sharing. Together, we make data management seamless and impactful for all disciplines! Join us in advancing the NFDI's vision for a unified and innovative research data management ecosystem! DMPs and SMPs: While DMP4NFDI initially focused on Data Management Plans (DMPs), we are expanding our expertise to include Software Management Plans (SMPs) during the integration phase. With the support of dedicated experts, we aim to address the growing importance of SMPs for managing software resources and workflows in research
+    # We work closely with consortia to develop DMP/SMP templates that streamline data workflows across projects.  
+# Train consortia staff to support their communities in using the DMP or SMP-Tool RDMO effectively.  
+# Facilitate integrations with other tools and services in the research data ecosystem of the NFDI. 
+# By fostering collaboration, standardization, and machine-readability, DMP4NFDI enhances communication between stakeholders and ensures that DMPs become powerful tools for research planning and data sharing. 
+# Together, we make data management seamless and impactful for all disciplines! Join us in advancing the NFDI's vision for a unified and innovative research data management ecosystem! 
+
+# DMPs and SMPs: While DMP4NFDI initially focused on Data Management Plans (DMPs), we are expanding our expertise to include Software Management Plans (SMPs) during the integration phase. With the support of dedicated experts, we aim to address the growing importance of SMPs for managing software resources and workflows in research. 
 
     design:
       columns: '1'

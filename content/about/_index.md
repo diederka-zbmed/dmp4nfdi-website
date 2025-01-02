@@ -3,7 +3,7 @@ title: About
 date: 2024-07-24
 type: landing
 
-# TODO change about
+# TODO update content
 
 sections:
   - block: markdown
@@ -20,23 +20,17 @@ sections:
     content:
       title: And what are the details?
       text: |
-        We work closely with consortia to:  
-        - Develop DMP/SMP templates that streamline data workflows across projects.  
-        - Train consortia staff to support their communities in   using the DMP/SMP-Tool RDMO effectively.  
-        - Facilitate integrations with other tools and services in the research data ecosystem of the NFDI. 
+        Scientific data should in any case follow the [FAIR principles](https://www.go-fair.org/fair-principles/), which promote findability, accessibility, interoperability and re-usability of research data. 
 
-        By fostering collaboration, standardization, and machine-readability, DMP4NFDI enhances communication between stakeholders and ensures that DMPs become powerful tools for research planning and data sharing. Together, we make data management seamless and impactful for all disciplines!  
-
-        Join us in advancing the NFDI's vision for a unified and innovative research data management ecosystem!
-
-        \* **DMPs and SMPs:** While DMP4NFDI initially focused on Data Management Plans (DMPs), we are expanding our expertise to include Software Management Plans (SMPs) during the integration phase. With the support of dedicated experts, we aim to address the growing importance of SMPs for managing software resources and workflows in research.
+        And here is a video of milk under a microscope, © [Miguel Angel Omaña Rojas CC-BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Milk_under_the_microscope.webm)
+        {{< video src="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Milk_under_the_microscope.webm/Milk_under_the_microscope.webm.480p.vp9.webm" controls="yes" >}}
 
     design:
       columns: '1'
 
   - block: experience
     content:
-      title: In which development phase is DMP4NFDI4NFDI?
+      title: In which development phase is Todo4NFDI?
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: January 2006
@@ -45,28 +39,26 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      # TODO: don't forget to change the dates of the phases.     
-      # Leave the 'date_end' of your current phase empty, so it is marked active. 
-      # TODO change content of initialisation phase after its ending 30.April 2025 
+      # TODO: don't forget to change the dates of the phases. Leave the 'date_end' of your current phase empty, so it is marked active
       items:
         - title: Initialisation Phase
           company: First Phase
-          location: current
-          date_start: '2024-05-01'
-          date_end: ''
-          description: In the initialisation phase, we laid the foundation for the service by hosting RDMO and collaborating with consortia to create first discipline-specific DMP templates. We gathered feedback from early adopters to refine our offerings, we started developing the NFDI Template Framework to standardize DMP/SMP creation and enable machine actionability.
-        -  title: Integration Phase
+          location: completed
+          date_start: '2022-01-01'
+          date_end: '2022-12-01'
+          #description: 
+        - title: Integration Phase
           company: Second Phase
-          location: planned
-          date_start: '2025-05-01'
-          date_end: '2027-04-30'
-          description: During the integration phase, we expand our reach by supporting consortia through incubator projects, enhancing template frameworks, and integrating RDMO with other tools and services to ensure interoperability.
-        -  title: Ramp-up Phase
+          location: current
+          date_start: '2023-01-01'
+          date_end: ''
+          #description: 
+        - title: Ramp-up Phase
           company: Third Phase
           location: planned
-          date_start: '2027-05.01'
-          date_end: '2029-04-30'
-          description: The ramp-up phase will scale the service further, fostering widespread adoption of DMPs and SMPs across consortia while ensuring sustainability through community-driven training and support.
+          date_start: '2025-01-01'
+          date_end: '2100-12-31'
+          #description: 
     design:
       columns: '1'
 ---
